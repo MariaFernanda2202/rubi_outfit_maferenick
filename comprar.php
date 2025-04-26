@@ -32,7 +32,7 @@
         <div class="d-grid gap-2 col-6 mx-auto">
         <a href="index.php?p=10" class="enviado"><button type="button" class="btn btn-outline-dark text-center" width=100px;>Comprar</button></a>
         </div>
-
+        <h1>um dia atualiza</h1>
 
       </div>
     </div>
